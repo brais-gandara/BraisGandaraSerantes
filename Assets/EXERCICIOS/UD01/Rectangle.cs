@@ -1,8 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
+
 using UnityEngine;
 
-public class Rectangle : MonoBehaviour
+/*public class Rectangle : MonoBehaviour
 {
     //variables globales
 
@@ -65,4 +64,4 @@ public class Rectangle : MonoBehaviour
     }
 
 
-}
+}*/

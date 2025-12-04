@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Conditionals2 : MonoBehaviour
+/*public class Conditionals2 : MonoBehaviour
 {
     // Variables globales
     [SerializeField]
@@ -52,3 +52,4 @@ public class Conditionals2 : MonoBehaviour
         }
     }
 }
+*/
